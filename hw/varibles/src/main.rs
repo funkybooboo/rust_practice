@@ -3,10 +3,7 @@ const READY_AMOUNT: i32 = 2;
 const STARTING_MISSILES: i32 = 8;
 
 fn main() {
-    let mut missiles = STARTING_MISSILES;
-    let ready = READY_AMOUNT;
-    println!("Firing {} of my {} missles...", ready, missiles);
-    missiles = missiles - ready;
-    println!("{} missiles left", missiles);
+    let (missiles, ready): (i32, i32) = (STARTING_MISSILES, READY_AMOUNT);
+    println!("Firing {} of my {} missiles...", ready, missiles);
+    println!("{} missiles left", missiles - ready);
 }
-    
