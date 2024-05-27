@@ -1,3 +1,7 @@
+use hello::greet;
+use rand::{Rng, thread_rng};
+
 fn main() {
-    println!("Hello, world!");
+    greet();
+    println!("{}", thread_rng().gen_range(0..100));
 }
