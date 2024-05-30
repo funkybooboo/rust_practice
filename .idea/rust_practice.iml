@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/hw/varibles/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/course/exercise/z_final_project/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/invaders/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/course/invaders/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/b_functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/c_simple_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/d_control_flow_strings/target" />
@@ -22,6 +23,7 @@
       <excludeFolder url="file://$MODULE_DIR$/hw/varibles/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/z_final_project/target" />
       <excludeFolder url="file://$MODULE_DIR$/invaders/target" />
+      <excludeFolder url="file://$MODULE_DIR$/course/invaders/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
