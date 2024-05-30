@@ -6,6 +6,6 @@ edition = "2021"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-rusty_audio = "1.4.1"
-rusty_time = "1.1.0"
-crossterm = "0.27.0"
+rusty_audio = "1.1.4"
+rusty_time = "0.11.0"
+crossterm = "0.17.5"
