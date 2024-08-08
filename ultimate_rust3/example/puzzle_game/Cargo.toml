@@ -1,0 +1,10 @@
+[package]
+name = "puzzle_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+puzzles = { path = "../puzzles" }
+log = "0.4"
+env_logger = "0.9"
