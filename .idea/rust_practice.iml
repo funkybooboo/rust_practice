@@ -13,6 +13,21 @@
       <sourceFolder url="file://$MODULE_DIR$/course/exercise/z_final_project/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/invaders/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/course/invaders/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/cafeteria/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/hello/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/hello/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/hello/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/kitchen/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/puzzle_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/example/puzzles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/closures_iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/docs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/errors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/idiomatic/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/logging/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/testing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/threads_channels/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/traits/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/b_functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/c_simple_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/d_control_flow_strings/target" />
@@ -24,6 +39,7 @@
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/z_final_project/target" />
       <excludeFolder url="file://$MODULE_DIR$/invaders/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/invaders/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ultimate_rust2/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
