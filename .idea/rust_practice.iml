@@ -28,6 +28,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/testing/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/threads_channels/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ultimate_rust2/exercise/testing/tests" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/b_functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/c_simple_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/course/exercise/d_control_flow_strings/target" />
