@@ -1,0 +1,6 @@
+[package]
+name = "road_race"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
