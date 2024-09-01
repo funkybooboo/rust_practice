@@ -1,10 +1,11 @@
 [package]
-name = "game_prototype"
+name = "car_collider"
 version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-rusty_engine = "4.0"
+rusty_engine = "5.0"
+rand = "0.8"
 
 [build-dependencies]
 syn = { version = "1", features = ["full"] }
