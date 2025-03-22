@@ -1,0 +1,13 @@
+[package]
+name = "car_collider"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rusty_engine = "5.0"
+rand = "0.8"
+
+[build-dependencies]
+syn = { version = "1", features = ["full"] }
+quote = "1"
+proc-macro2 = "1"
