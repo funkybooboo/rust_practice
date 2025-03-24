@@ -1,4 +1,4 @@
-# Project Title
+# Rust Practice
 
 
 ## License
