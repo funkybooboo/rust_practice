@@ -1,0 +1,8 @@
+# rustlighs
+
+## Usage
+
+```bash
+rustlings
+```
+
