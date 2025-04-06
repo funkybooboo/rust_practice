@@ -12,7 +12,7 @@ fn get_char(s: &String) -> char {
 fn string_uppercase(mut s: String) {
     s = s.to_uppercase();
 
-    println!("{data}");
+    println!("{s}");
 }
 
 fn main() {
